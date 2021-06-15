@@ -1,0 +1,2 @@
+rootProject.name='td2-exo3'
+include ':app'
